@@ -36,6 +36,7 @@ This page is for collecting and compiling resources about computational skills a
 - parallelization: when it's good, when it's not
 
 ## Intermediate to advanced skills
+- Object-oriented programming
 - GPU vs MPI
 - CUDA 101
 - CMake
